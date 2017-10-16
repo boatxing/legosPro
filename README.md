@@ -3,7 +3,7 @@
 
 ##legosUtil
 ###legos数据库信息
-legos数据库 legos
+schema: legos
 user: 
 password: 
 port:3306 
