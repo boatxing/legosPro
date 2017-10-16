@@ -18,7 +18,7 @@ add
 get(moduleId)
 
 ##devUtil
-###dev:
+###源文件
 源文件
 /export/wxsq/resource/js/legos/<项目名称>/<moduleName>.js
 
@@ -27,6 +27,9 @@ get(moduleId)
 大版本号：201710
 小版本号：201710121445
 
+###入口文件
+
+
 ###接口
 add
 
@@ -34,6 +37,10 @@ add
 ###分析模块依赖
 ###loader
 调用legosUtil接口将module src拉到本地，修改require路径
+###接口
+获取依赖
+
+loader
 
 ##pack
 ###html模板处理:
@@ -42,6 +49,7 @@ tpl_\<moduleName\>.html
 vue_\<moduleName\>.html
 
 ###pack
+同时支持es5 和 es6
 
 ##eosUtil
 因为发布接口有来源ip白名单，所以统一调用PPMS的发布服务
@@ -52,6 +60,7 @@ toGamma
 toIdc
 
 ##commander
+
 
 
 
