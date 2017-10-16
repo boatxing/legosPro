@@ -38,10 +38,20 @@ add
 ##pack
 ###html模板处理:
 tpl_\<moduleName\>.html
-<h2>vue模板处理:</h2>
+###vue模板处理:
 vue_\<moduleName\>.html
 
 ###pack
+
+##eosUtil
+因为发布接口有来源ip白名单，所以统一调用PPMS的发布服务
+
+##接口
+toGamma
+
+toIdc
+
+##commander
 
 
 
