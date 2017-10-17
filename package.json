@@ -1,0 +1,30 @@
+{
+  "name": "legospro",
+  "version": "1.0.0",
+  "description": "legos命令行构建工具",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc",
+    "test": "test"
+  },
+  "dependencies": {
+    "commander": "^2.11.0",
+    "log4js": "^2.3.7",
+    "mysql": "github:mysqljs/mysql",
+    "promise": "^8.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boatxing/legosPro.git"
+  },
+  "author": "boatxing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boatxing/legosPro/issues"
+  },
+  "homepage": "https://github.com/boatxing/legosPro#readme"
+}
