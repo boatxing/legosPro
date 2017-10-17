@@ -60,6 +60,9 @@ toGamma
 toIdc
 
 ## commander
+```bash
+$ leg publish <module>
+```
 
 ## log
 
