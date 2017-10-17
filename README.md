@@ -66,8 +66,13 @@ toIdc
 
 ##参考文档
 https://github.com/felixge/node-mysql
+
 https://github.com/nomiddlename/log4js-node
+
 https://github.com/seajs/seajs
+
+https://github.com/tj/commander.js
+
 https://github.com/o2team/athena
 
 
