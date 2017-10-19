@@ -9,7 +9,6 @@
   },
   "dependencies": {
     "commander": "^2.11.0",
-    "ftp": "^0.3.10",
     "log4js": "^2.3.7",
     "mysql": "github:mysqljs/mysql",
     "promise": "^8.0.1",
