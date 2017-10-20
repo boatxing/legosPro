@@ -1,0 +1,17 @@
+{
+  "appenders": {
+      "e": {
+          "type": "dateFile",
+          "filename":"../log/",
+          "pattern": "app-yyyy-MM-dd.log",
+          "alwaysIncludePattern":true,
+        "daysToKeep": 1
+      }
+  },
+  "categories" : {
+    "default": {
+      "appenders":["e"],
+      "level": "DEBUG"
+    }
+  }
+}
