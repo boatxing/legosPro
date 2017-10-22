@@ -11,7 +11,6 @@
     "commander": "^2.11.0",
     "log4js": "^2.3.7",
     "mysql": "github:mysqljs/mysql",
-    "promise": "^8.0.1",
     "ssh2": "^0.5.5",
     "ssh2-sftp-client": "^2.0.1"
   },
