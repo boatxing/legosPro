@@ -1,10 +1,8 @@
 module.exports = {
     ftp: {
-        "host": "",
+        "host": "192.168.200.32",
         "port": 22,
-        "user": "",
-        "password": "",
-        "connTimeout": 10000,  //10s
-        "keepalive": 10000
+        "user": "wxsq_dev",
+        "password": "wxsq_dev"
     }
 }
