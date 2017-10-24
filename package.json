@@ -18,6 +18,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "bin": {
+    "legospro": "./bin/legospro.js",
+    "lgp": "./bin/legospro.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/boatxing/legosPro.git"
